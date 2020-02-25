@@ -1,4 +1,4 @@
-# AnatomyOfAsocialCEO
+# Anatomy Of A Social CEO
 Analysing ripple effects of CEO tweets of the value of their Fortune 100 companies
 
 
